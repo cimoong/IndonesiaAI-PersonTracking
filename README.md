@@ -8,7 +8,7 @@ Jumlah manusia pada kota besar sangatlah banyak. Orang yang berkerumun sering ka
 Dalam Project ini saya mencoba implementasikan YoloV3([paper](https://arxiv.org/abs/1804.02767)|[code](https://github.com/ultralytics/yolov3)) untuk person tracking menggunakan datasets [coco dataset](https://cocodataset.org/) yang diambil menggunakan library [FiftyOne](https://docs.voxel51.com/).<br/>
 
 
-## Strategi Kriteria Uji
+## Langkah-langkah
 Proses implementasi:
 1. Import library-library
 2. Download dataset (coco dataset) dengan menggunakan FiftyOne dengan jumlah data train 3000 dan data test 500
